@@ -1,2 +1,2 @@
 # links
-Meine Links Site
+Meine Link Site
